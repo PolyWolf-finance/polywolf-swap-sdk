@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pantherswap/panther-swap-sdk.git",
+  "repository": "https://github.com/PolyWolf-finance/polywolf-swap-sdk",
   "keywords": [
     "pantherswap",
     "ethereum"
