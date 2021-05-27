@@ -1,8 +1,8 @@
 {
-  "name": "@pantherswap-libs/sdk",
+  "name": "@polywolfswap-libs/sdk",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of pantherswap.",
+  "description": "🛠 An SDK for building applications on top of polywolfswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/PolyWolf-finance/polywolf-swap-sdk",
   "keywords": [
-    "pantherswap",
+    "polywolfswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
